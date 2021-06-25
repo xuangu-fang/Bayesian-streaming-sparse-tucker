@@ -1,0 +1,24 @@
+runs = 1, rank = 5 
+mean AUC = 0.864324, std AUC = 0.0152836 
+training time is 0.831 
+
+ 
+ 
+runs = 1, rank = 7 
+mean AUC = 0.847735, std AUC = 0.0171211 
+training time is 0.857 
+
+ 
+ 
+runs = 1, rank = 9 
+mean AUC = 0.857962, std AUC = 0.0186585 
+training time is 1.331 
+
+ 
+ 
+runs = 1, rank = 11 
+mean AUC = 0.863774, std AUC = 0.0187012 
+training time is 1.748 
+
+ 
+ 

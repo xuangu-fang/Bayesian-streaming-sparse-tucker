@@ -1,0 +1,7 @@
+runs = 2, rank = 3 
+mean rmse = 0.197619, std rmse = 0.000479055 
+mean MAE= 0.145735, std MA = 0.000291732 
+training time is 1.677 
+
+ 
+ 

@@ -1,0 +1,48 @@
+runs = 1, rank = 3, batch_size = 1024 
+mean RMSE = 0.398402, std RMSE= 0.0408566 
+training time is 364.562 
+
+ 
+ 
+runs = 1, rank = 3, batch_size = 2048 
+mean RMSE = 0.38383, std RMSE= 0.0345593 
+training time is 312.379 
+
+ 
+ 
+runs = 1, rank = 5, batch_size = 2048 
+mean RMSE = 0.392768, std RMSE= 0.0344994 
+training time is 497.29 
+
+ 
+ 
+runs = 1, rank = 7, batch_size = 2048 
+mean RMSE = 0.378228, std RMSE= 0.0277419 
+training time is 1106.64 
+
+ 
+ 
+runs = 1, rank = 9, batch_size = 2048 
+mean RMSE = 0.383487, std RMSE= 0.0311954 
+training time is 3242.38 
+
+ 
+ 
+runs = 1, rank = 5, batch_size = 1024 
+mean RMSE = 0.391382, std RMSE= 0.0459973 
+training time is 520.386 
+
+ 
+ 
+runs = 1, rank = 5, batch_size = 768 
+mean RMSE = 0.400411, std RMSE= 0.0397645 
+training time is 546.84 
+
+ 
+ 
+runs = 1, rank = 5, batch_size = 256 
+mean RMSE = 0.406197, std RMSE= 0.0294192 
+training time is 677.516 
+
+ 
+ 

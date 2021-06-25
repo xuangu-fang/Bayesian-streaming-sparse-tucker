@@ -1,0 +1,35 @@
+runs = 2, rank = 3 
+mean rmse = 1.93009, std rmse = 0.158352 
+mean MAE= 0.950008, std MA = 0.115206 
+training time is 0.1525 
+
+ 
+ 
+runs = 5, rank = 3 
+mean rmse = 1.85754, std rmse = 0.123472 
+mean MAE= 0.908811, std MA = 0.0803822 
+training time is 0.1298 
+
+ 
+ 
+runs = 5, rank = 5 
+mean rmse = 1.89303, std rmse = 0.132837 
+mean MAE= 0.880905, std MA = 0.0365973 
+training time is 0.1472 
+
+ 
+ 
+runs = 5, rank = 7 
+mean rmse = 2.01439, std rmse = 0.158706 
+mean MAE= 0.8984, std MA = 0.0522393 
+training time is 0.2502 
+
+ 
+ 
+runs = 5, rank = 9 
+mean rmse = 2.06574, std rmse = 0.120514 
+mean MAE= 0.929464, std MA = 0.0475929 
+training time is 0.3572 
+
+ 
+ 

@@ -1,0 +1,69 @@
+runs =1, rank = 3, batch_size = 512 
+mean rmse = 1.01443, std rmse = 0 
+mean MAE= 0.531656, std MA = 0 
+
+ 
+ 
+runs =1, rank = 2, batch_size = 512 
+mean rmse = 1.0251, std rmse = 0, exact values are 1.0251, 
+mean MAE= 0.534862, std MA = 0 
+
+ 
+ 
+runs =2, rank = 2, batch_size = 512 
+mean rmse = 1.05374, std rmse = 0.0404923, exact values are 1.0251, 
+mean rmse = 1.08237, std rmse = mean MAE= 0.552358, std MA = 0.0247427 
+
+ 
+ 
+runs =2, rank = 2, batch_size = 512 
+mean rmse = 1.05374, std rmse = 0.0404923, exact values are 
+runs =2, rank = 2, batch_size = 512 
+mean rmse = 1.05374, std rmse = 0.0404923, exact values are 
+
+ mean MAE= 0.552358, std MA = 0.0247427 
+
+ 
+ 
+runs =3, rank = 3, batch_size = 1024 
+mean rmse = 1.02544, std rmse = 0.0255504, exact values are 
+mean MAE= 0.537632, std MA = 0.00857064 
+
+ 
+ 
+runs =3, rank = 5, batch_size = 1024 
+mean rmse = 1.00149, std rmse = 0.0105893, exact values are 
+mean MAE= 0.522645, std MA = 0.00875357 
+
+ 
+ 
+runs =3, rank = 7, batch_size = 1024 
+mean rmse = 1.01219, std rmse = 0.0195449, exact values are 
+mean MAE= 0.526773, std MA = 0.00717249 
+
+ 
+ 
+runs =3, rank = 9, batch_size = 1024 
+mean rmse = 1.00827, std rmse = 0.00301188, exact values are 
+mean MAE= 0.521101, std MA = 0.00544762 
+
+ 
+ 
+runs =3, rank = 5, batch_size = 512 
+mean rmse = 1.08165, std rmse = 0.041511, exact values are 
+mean MAE= 0.551021, std MA = 0.01964 
+
+ 
+ 
+runs =3, rank = 5, batch_size = 756 
+mean rmse = 1.00985, std rmse = 0.019291, exact values are 
+mean MAE= 0.527763, std MA = 0.0137151 
+
+ 
+ 
+runs =3, rank = 5, batch_size = 2048 
+mean rmse = 0.98853, std rmse = 0.0225331, exact values are 
+mean MAE= 0.519283, std MA = 0.0147193 
+
+ 
+ 
