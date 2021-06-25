@@ -1,4 +1,4 @@
-# Bayesian-streaming-sparse-tucker
+# Bayesian-streaming-sparse-tucker-decomposition
 code of Bayesian streaming sparse tucker decomposition for UAI 2021
 
 ## Requirements:
