@@ -1,6 +1,9 @@
 # Bayesian-streaming-sparse-tucker-decomposition
 code of Bayesian streaming sparse tucker decomposition for UAI 2021
 
+![model illustration](figs\fig1.jpg ''model'')
+
+
 ## Requirements:
 matlab >= 2016
 
