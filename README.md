@@ -1,4 +1,7 @@
 # Bayesian-streaming-sparse-tucker-decomposition
+by Shikai Fang, Wei Xing, Mike Kirby and Shandian Zhe
+
+
 code of Bayesian streaming sparse tucker decomposition for UAI 2021
 
 ![model illustration](./figs/fig1.JPG)
