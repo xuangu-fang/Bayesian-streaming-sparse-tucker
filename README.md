@@ -23,7 +23,6 @@ Baselines: cp_als, cp_wopt, cp_num (you may have to modify the data-loding path 
 
 Check infos for more datasets and baselines in our paper
 
-link to paper present will be release soon :)
 
 ## Citation
 Please cite our work if you would like to use the code
