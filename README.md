@@ -4,6 +4,8 @@ by Shikai Fang, Mike Kirby and Shandian Zhe
 
 code of Bayesian streaming sparse tucker decomposition for UAI 2021
 
+Links for [Paper](https://github.com/xuangu-fang/Bayesian-streaming-sparse-tucker/blob/main/paper/sparse_tucker.pdf) and [Supplementary](https://github.com/xuangu-fang/Bayesian-streaming-sparse-tucker/blob/main/paper/supplementary.pdf)
+
 ![model illustration](./figs/fig1.JPG)
 
 
