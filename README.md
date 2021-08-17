@@ -24,8 +24,12 @@ Check infos for more datasets and baselines in our paper
 link to paper present will be release soon :)
 
 ## Citation
-
+Please cite our work if you would like to use the code
+```
 @article{fangbayesian,
   title={Bayesian Streaming Sparse Tucker Decomposition},
   author={Fang, Shikai and Kirby, Robert M and Zhe, Shandian}
 }
+
+
+```
