@@ -22,3 +22,10 @@ Baselines: cp_als, cp_wopt, cp_num (you may have to modify the data-loding path 
 Check infos for more datasets and baselines in our paper
 
 link to paper present will be release soon :)
+
+## Citation
+
+@article{fangbayesian,
+  title={Bayesian Streaming Sparse Tucker Decomposition},
+  author={Fang, Shikai and Kirby, Robert M and Zhe, Shandian}
+}
